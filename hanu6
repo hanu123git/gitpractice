@@ -1,3 +1,7 @@
 git stage command
 git merge conflict
-one more time git conflict
+<<<<<<< HEAD
+
+=======
+git meege conflict1 modified
+>>>>>>> hanubrach1
